@@ -56,7 +56,7 @@ python tictactoe.py
 ```
 The game window will open and you can start playing 🎉
 
-##📁 Project Structure
+## 📁 Project Structure
 ```bash
 pygame-tictactoe/
 │
@@ -70,17 +70,28 @@ pygame-tictactoe/
 └── font/                 # Font assets
 ```
 
-##💡 Future Improvements
+## 💡 Future Improvements
 
--🤖 Single-player mode (AI)
+- 🤖 Single-player mode (AI)
+- 📊 Score tracking system
+- 🔁 Restart button
+- ✨ Improved animation
+- 🎚 Difficulty levels
 
--📊 Score tracking system
 
--🔁 Restart button
+## 🤝 Contributing
 
--✨ Improved animations
+Contributions are welcome!
 
--🎚 Difficulty levels
+- Fork the repository
+- Create a feature branch
+```bash
+git checkout -b feature/YourFeature
+```
+- Commit your changes
+- Push to your branch
+- Open a Pull Request
+
 
 ## 🙌 Acknowledgements
 
@@ -89,8 +100,8 @@ Big thanks to my friends who helped me in this project:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sonjoysd">
-        <img src="https://github.com/sonjoysd.png" width="100px;" alt=""/><br />
+      <a href="https://github.com/suksaif">
+        <img src="https://github.com/suksaif.png" width="100px;" alt=""/><br />
         <sub><b>sonjoysd</b></sub>
       </a>
     </td>
