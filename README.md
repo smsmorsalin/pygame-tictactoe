@@ -72,12 +72,41 @@ pygame-tictactoe/
 
 ##💡 Future Improvements
 
-🤖 Single-player mode (AI)
+-🤖 Single-player mode (AI)
 
-📊 Score tracking system
+-📊 Score tracking system
 
-🔁 Restart button
+-🔁 Restart button
 
-✨ Improved animations
+-✨ Improved animations
 
-🎚 Difficulty levels
+-🎚 Difficulty levels
+
+## 🙌 Acknowledgements
+
+Big thanks to my friends who helped me in this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sonjoysd">
+        <img src="https://github.com/sonjoysd.png" width="100px;" alt=""/><br />
+        <sub><b>sonjoysd</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mujahid-Maruf">
+        <img src="https://github.com/Mujahid-Maruf.png" width="100px;" alt=""/><br />
+        <sub><b>Mujahid-Maruf</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 👤 Author
+
+**[smsmorsalin](https://github.com/smsmorsalin)**
+
+---
+
+*Thanks for checking out my code! Feel free to star ⭐ the repository if you find it useful.*
