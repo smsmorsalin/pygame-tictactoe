@@ -102,11 +102,11 @@ Big thanks to my friends who helped me in this project:
     <td align="center">
       <a href="https://github.com/suksaif">
         <img src="https://github.com/suksaif.png" width="100px;" alt=""/><br />
-        <sub><b>sonjoysd</b></sub>
+        <sub><b>saif</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mujahid-Maruf">
+      <a href="https://github.com/Mujahid Maruf">
         <img src="https://github.com/Mujahid-Maruf.png" width="100px;" alt=""/><br />
         <sub><b>Mujahid-Maruf</b></sub>
       </a>
