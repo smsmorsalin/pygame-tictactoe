@@ -101,7 +101,7 @@ Big thanks to my friends who helped me in this project:
   <tr>
     <td align="center">
       <a href="https://github.com/Saif-kaif">
-        <img src="https://github.com/suksaif.png" width="100px;" alt=""/><br />
+        <img src="https://github.com/Saif-kaif.png" width="100px;" alt=""/><br />
         <sub><b>saif</b></sub>
       </a>
     </td>
